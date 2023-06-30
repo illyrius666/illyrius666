@@ -38,6 +38,6 @@
 <h1 style="text-align: center;">Spotify</h1>
 <p align="left">
   <a href="https://open.spotify.com/user/1168441141">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1168441141&count=3" alt="Spotify">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1168441141&count=3&card_width=1200" alt="Spotify">
   </a>
 </p>
