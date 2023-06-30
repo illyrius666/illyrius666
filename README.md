@@ -11,7 +11,7 @@
 
 # Projects
 
-![Alt text](https://illyrius.me/AutoFrameCAD)
+![Website](https://illyrius.me/AutoFrameCAD)
 
 # Spotify
 
