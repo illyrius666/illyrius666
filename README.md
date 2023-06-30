@@ -1,25 +1,29 @@
-![GitHub Logo](https://github.com/illyrius666/illyrius666/blob/master/images/header.png)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=illyrius666&theme=radical&date_format=j%2Fn%5B%2FY%5D&card_width=1200)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github.com/illyrius666/illyrius666/blob/master/images/header.png" alt="GitHub Logo">
+  <br>
+  <h1>Projects</h1>
+</div>
 
-# Projects
+<h2>Website</h2>
+<p><a href="https://illyrius.me/AutoFrameCAD">https://illyrius.me/AutoFrameCAD</a></p>
 
-![Website](https://illyrius.me/AutoFrameCAD)
+<h2>Rank</h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=illyrius666&theme=radical" alt="Anurag's GitHub stats">
+</a>
 
-# Rank
+<h2>Languages</h2>
+<a href="https://github.com/illyrius666">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=illyrius666&layout=compact&theme=radical" alt="Top Langs">
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=illyrius666&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<h2>Trophies</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=illyrius666&theme=radical" alt="trophy">
+</a>
 
-# Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illyrius666&layout=compact&theme=radical)
-
-# Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=illyrius666&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-# Spotify
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1168441141&count=3)
+<h2>Spotify</h2>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=1168441141&count=3" alt="Alt text">
 
 <div align="center">
   <img src="https://picsum.photos/600/400" alt="#">
