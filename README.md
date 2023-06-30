@@ -20,3 +20,7 @@
 # Spotify
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1168441141&count=3)
+
+<div align="center">
+  <img src="https://picsum.photos/600/400" alt="#">
+</div>
