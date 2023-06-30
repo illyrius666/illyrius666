@@ -7,7 +7,7 @@
 
 # Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=illyrius666&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=illyrius666&theme=radical&card_width=1200)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Projects
 
