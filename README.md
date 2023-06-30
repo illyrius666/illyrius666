@@ -35,7 +35,3 @@
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=1168441141&count=3" alt="Alt text">
 </p>
-
-<div align="center">
-  <img src="https://picsum.photos/600/400" alt="#">
-</div>
