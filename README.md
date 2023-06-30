@@ -11,4 +11,7 @@
 
 # Projects
 
-![GitHub Logo](https://github.com/illyrius666/illyrius666/blob/master/images/footer.png)
+
+# Spotify
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1168441141)
