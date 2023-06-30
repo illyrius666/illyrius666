@@ -14,4 +14,4 @@
 
 # Spotify
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1168441141&width=600)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1168441141&width=1200&count=3)
