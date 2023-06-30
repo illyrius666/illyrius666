@@ -1,4 +1,4 @@
-![GitHub Logo](https://github.com/illyrius666/illyrius666/blob/master/header.png)
+![GitHub Logo](https://github.com/illyrius666/illyrius666/blob/master/images/header.png)
 
 # Rank
 
@@ -8,3 +8,7 @@
 # Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=illyrius666&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+# Projects
+
+![GitHub Logo](https://github.com/illyrius666/illyrius666/blob/master/images/footer.png)
