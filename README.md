@@ -1,4 +1,5 @@
 ![GitHub Logo](https://github.com/illyrius666/illyrius666/blob/master/images/header.png)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=illyrius666&theme=radical&date_format=j%2Fn%5B%2FY%5D&card_width=1200)](https://git.io/streak-stats)
 
 # Rank
 
