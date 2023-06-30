@@ -9,7 +9,9 @@
 
 <h1 style="text-align: center;">Projects</h1>
 <p align="center">
-  <img src="https://github.com/illyrius666/illyrius666/blob/master/images/AutoFrameCAD.png" alt="AutoFrameCAD">
+  <a href="https://illyrius.me/AutoFrameCAD">
+    <img src="https://github.com/illyrius666/illyrius666/blob/master/images/AutoFrameCAD.png" alt="AutoFrameCAD">
+  </a>
 </p>
 
 <h1 style="text-align: center;">Rank</h1>
