@@ -1,4 +1,4 @@
-![GitHub Logo](https://github.com/illyrius666/repository/illyrius/master/header.png)
+![GitHub Logo](https://github.com/illyrius666/illyrius/master/header.png)
 
 # Rank
 
