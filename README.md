@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://github.com/illyrius666/illyrius666/blob/master/images/header.png" alt="GitHub Logo">
+  <a href="https://app.codacy.com/gh/illyrius666/illyrius666/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade">
+    <img src="https://app.codacy.com/project/badge/Grade/542d32e543cb48b8bc7d1aaedcbfa607" alt="">
+  </a>
   <p>
     <a href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=illyrius666&theme=radical&date_format=j%2Fn%5B%2FY%5D&card_width=1000" alt="Streak stats">
