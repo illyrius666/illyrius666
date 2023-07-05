@@ -1,7 +1,10 @@
 <div align="center">
   <img src="https://github.com/illyrius666/illyrius666/blob/master/images/header.png" alt="GitHub Logo">
   <a href="https://app.codacy.com/gh/illyrius666/illyrius666/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade">
-    <img src="https://app.codacy.com/project/badge/Grade/542d32e543cb48b8bc7d1aaedcbfa607" alt="">
+    <img src="https://app.codacy.com/project/badge/Grade/542d32e543cb48b8bc7d1aaedcbfa607" alt="Codacy">
+  </a>
+  <a href="https://www.codefactor.io/repository/github/illyrius666/illyrius666">
+    <img src="https://www.codefactor.io/repository/github/illyrius666/illyrius666/badge" alt="CodeFactor">
   </a>
   <p>
     <a href="https://git.io/streak-stats">
