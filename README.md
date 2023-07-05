@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d1435386c7104c7ca8460a081d5369dd)](https://app.codacy.com/gh/illyrius666/illyrius666?utm_source=github.com&utm_medium=referral&utm_content=illyrius666/illyrius666&utm_campaign=Badge_Grade)
+
 <div align="center">
   <img src="https://github.com/illyrius666/illyrius666/blob/master/images/header.png" alt="GitHub Logo">
   <p>
